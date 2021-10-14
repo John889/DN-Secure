@@ -1,5 +1,3 @@
-#About Fapsecure
-
 Fapsecure is an app that uses DNSCrypt to enforce a DNS server. It was made to help people with self-control. 
 It uses cleanbrowsing Family by default and Neustar Family as a fall back resolver (IPv4)
 
